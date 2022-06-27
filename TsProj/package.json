@@ -2,10 +2,10 @@
   "scripts": {
     "bundle:dev": "webpack --config webpack.config.debug.js --watch",
     "bundle:publish": "webpack --config webpack.config.release.js",
-    "test":"jest",
-    "test-c":"jest --coverage"
+    "test": "jest",
+    "test-c": "jest --coverage"
   },
-  "jest":{
+  "jest": {
     "testEnvironment": "node"
   },
   "devDependencies": {

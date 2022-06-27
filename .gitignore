@@ -6,6 +6,8 @@ Recordings/
 *.sln
 Assets/LuaScripts/.idea/
 ServerData/
+Assets/Gen/*.cs
+Assets/Gen/*.meta
 
 TsProj/node_modules/
 FGUIProject/.objs/fonts.json
